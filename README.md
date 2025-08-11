@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Security engineer and tech lead building tools to solve complex security challenges. My focus spans Application Security, Cloud Architecture (AWS ☁️), and DevSecOps automation.
+Security engineer and tech lead building tools to solve complex security challenges. My focus spans Application Security, Cloud Security (AWS ☁️), and DevSecOps automation.
 
-I code primarily in Python and enjoy front-end work with Vue/Nuxt. Currently deep in AI security: securing production workloads and building AI agents 🤖 with LangGraph that automate security operations.
-
+I code primarily in Python and Go, and enjoy front-end work with Vue/Nuxt. Currently deep in AI security: securing AI production workloads and building AI agents 🤖 with LangGraph that automate security challenges.
