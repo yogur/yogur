@@ -1,5 +1,3 @@
-## Hi there! 👋
-
 <!--
 **yogur/yogur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,10 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a security engineer with a passion for building secure and scalable systems. My playground is the intersection of Application Security, Cloud Architecture (mostly AWS ☁️), and DevSecOps.
+Security engineer and tech lead building tools to solve complex security challenges. My focus spans Application Security, Cloud Architecture (AWS ☁️), and DevSecOps automation.
 
-When I'm not architecting security solutions, I'm probably tinkering with code. I enjoy building things with Python and have a soft spot for front-end development with Vue/Nuxt.
+I code primarily in Python and enjoy front-end work with Vue/Nuxt. Currently deep in AI security: securing production workloads and building AI agents 🤖 with LangGraph that automate security operations.
 
-Lately, I've been diving deep into all things AI security. My focus spans from securing production AI workloads to enabling complex agentic workflows with protocols like MCP. I'm also building my own AI agents 🤖 with LangGraph to automate tricky security challenges.
-
-I'm excited to start open-sourcing some of my projects soon. Stay tuned! ✨
